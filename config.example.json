@@ -1,5 +1,5 @@
 {
-  "friends": ["好友A", "好友B"],
+  "friends": ["三只小猫ggg", "维心"],
   "messages": [
     {"type": "text", "value": "今天也要开心呀 😊"},
     {"type": "sticker", "value": "比心"}
