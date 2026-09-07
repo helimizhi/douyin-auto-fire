@@ -1,7 +1,7 @@
 {
   "accounts": [
     {
-      "id": "account1",
+      "id": "合理密植",
       "enabled": true,
       "env_file": ".env.account1"
     },
